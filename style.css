@@ -1,0 +1,173 @@
+.titulo1{
+	font-family: times new roman;
+	font-size: 90px;
+	color: #6e5a8c;
+	border-style: dashed;
+	border-width: 10px;
+	border-color: white;
+
+}
+
+body{
+
+	background-image: url(img/img2.jpg);
+	background-attachment: fixed;
+	
+	background-size: 1350px;
+	background-repeat: no-repeat; 
+}
+.menu a{
+text-decoration: none;
+font-family: sans-serif;
+font-size:16px;
+color:white;
+}
+.menu li{
+list-style-type: none;
+display:inline-block ;
+background-color:#6e5a8c;
+width:18%;	
+text-align: center;
+height:30px;
+}
+.menu a:hover{
+color:red ;	
+
+}
+
+.img1{
+	background-image: url(img/img1.jpg);
+	background-size: 400px 300px;
+	width: 400px; height: 300px;
+	border-style:solid ;
+	border-color: green;
+    border-width:bold ;
+
+
+}
+.texto1{
+	font-family: ;
+	font-size: 30px;
+	color:  white;
+	
+
+	
+}
+.titulo2{
+font-family: arial black;
+	font-size: 90px;
+	color: green;
+
+}
+.texto2{
+	font-family: American Typewriter;
+	font-size: 25px;
+	color:  white;
+	
+}
+.titulo3{
+font-family: arial black;
+	font-size: 90px;
+	color: #6e5a8c;
+	border-style: dashed;
+	border-width: 10px;
+	border-color: white;
+
+}.texto3{
+font-family: American Typewriter;
+	font-size: 30px;
+	color:  white;
+	
+
+}.img3{
+
+	background-image: url(img/img3.jpg);
+	background-size: 400px 300px;
+	width: 400px; height: 300px;
+	border-style:dashed; 
+	border color: red;
+    border-width:bold ;
+}.img4{
+
+	background-image: url(img/img4.jpg);
+	background-size: 400px 300px;
+	width: 400px; height: 300px;
+	border-style:solid;
+	border-width:10px;
+	border-color: red;
+	transition-property: background;
+	transition-duration: 2s;
+	transition-timing-function: ease-out;
+}.img4:hover{
+	background-image: url(img/img5.jpg) ;
+}.texto4{
+	font-family: American Typewriter;
+	font-size: 30px;
+	color:  white;
+}.img5{
+
+	background-image: url(img/img6.jpg);
+	background-size: 400px 300px;
+	width: 400px; height: 300px;
+	border-style:dashed;
+	border-color: violet;
+	border-width:8px;
+	transition-property: background;
+	transition-duration: 1s;
+	transition-timing-function: ease-out;
+	}.img5:hover{
+		background-image: url(img/img7.jpg);
+	}.texto5{
+	font-family: American Typewriter;
+	font-size: 30px;
+	color:  white;
+}.img6{
+	background-image: url(img/img8.jpg);
+	background-size: 400px 300px;
+	width: 400px; height: 300px;
+	border-style:solid;
+	border-color: orange;
+	border-width:10px;
+	transition-property: background;
+	transition-duration: 3s;
+	transition-timing-function: ease-out;
+}.img6:hover{
+	background-image: url(img/img9.jpg);
+}.texto6{
+	font-family: American Typewriter;
+	font-size: 30px;
+	color:  white;
+}.img7{
+	background-image: url(img/img10.jpg);
+	background-size: 400px 300px;
+	width: 400px; height: 300px;
+	border-style: dashed;
+	border-width:10px;
+	border-color: red;
+}.texto7{
+font-family: American Typewriter;
+	font-size: 30px;
+	color:  white;
+
+}.img8{
+	background-image: url(img/img11.jpg);
+	background-size: 400px 300px;
+	width: 400px; height: 300px;
+	border-style:solid;
+	border-color: orange;
+}.texto8{
+	font-family: American Typewriter;
+	font-size: 30px;
+	color:  white;
+	}.img9{
+		background-image: url(img/img12.jpg);
+	background-size: 400px 300px;
+	width: 400px; height: 300px;
+	border-style:double;
+	border-color: yellow;
+	border-width: 10px;
+	}.texto9{
+		font-family: American Typewriter;
+	font-size: 30px;
+	color:  white;
+	}
